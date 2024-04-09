@@ -23,6 +23,88 @@
         "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/27-de-mayo-1981-pm/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2829,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/27-de-mayo-1981-pm-canvas-1-bajas.json",
+            "label": {
+              "none": ["Bajas"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/27-de-mayo-1981-pm-canvas-1-desaparecidos.json",
+            "label": {
+              "none": ["Desaparecidos"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/27-de-mayo-1981-pm-canvas-1-venezuela.json",
+            "label": {
+              "none": ["Venezuela"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/27-de-mayo-1981-pm-canvas-1-reporte.json",
+            "label": {
+              "none": ["Reporte"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/27-de-mayo-1981-pm-canvas-1-plomo-informativo.json",
+            "label": {
+              "none": ["Plomo Informativo"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/27-de-mayo-1981-pm-canvas-1-efectos-de-sonido.json",
+            "label": {
+              "none": ["Efectos de sonido"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/27-de-mayo-1981-pm-canvas-1-m-sica.json",
+            "label": {
+              "none": ["Música"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/27-de-mayo-1981-pm-canvas-1-radio-venceremos.json",
+            "label": {
+              "none": ["Radio Venceremos"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/27-de-mayo-1981-pm-canvas-1-enfrentamiento.json",
+            "label": {
+              "none": ["Enfrentamiento"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/27-de-mayo-1981-pm-canvas-1-enfrentamiento-br-bajas.json",
+            "label": {
+              "none": ["Enfrentamiento\u003cbr\u003eBajas"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/27-de-mayo-1981-pm/canvas-1/paintings",

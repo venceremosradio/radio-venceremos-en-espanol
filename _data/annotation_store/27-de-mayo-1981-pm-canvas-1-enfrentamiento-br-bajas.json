@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/27-de-mayo-1981-pm-canvas-1-enfrentamiento-br-bajas.json",
+  "type": "AnnotationPage",
+  "label": "Enfrentamiento<br>Bajas",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-pm-canvas-1-enfrentamiento-br-bajas-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Hemos recibido informes que en la pista aérea de la ciudad de Gotera, cabecera departamental de Morazán, una noche de la semana pasada se registró un enfrentamiento entre soldados y oficiales pertenecientes al cuartel de contrainsurgencia que dejó como saldo un oficial muerto y varios soldados gravemente heridos.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Morazán",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/27-de-mayo-1981-pm/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/27-de-mayo-1981-pm/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "138.0,161.0"
+        }
+      }
+    }
+  ]
+}

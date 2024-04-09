@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/27-de-mayo-1981-pm-canvas-1-efectos-de-sonido.json",
+  "type": "AnnotationPage",
+  "label": "Efectos de sonido",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-pm-canvas-1-efectos-de-sonido-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "(Ametralladora)",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Sonidos",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/27-de-mayo-1981-pm/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/27-de-mayo-1981-pm/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "10.0,23.0"
+        }
+      }
+    }
+  ]
+}
