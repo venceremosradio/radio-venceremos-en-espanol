@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-plomo-informativo.json",
+  "type": "AnnotationPage",
+  "label": "Plomo Informativo",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-am-canvas-1-plomo-informativo-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A continuación Radio Venceremos presenta, Plomo Informativo contra el cerco informativo de la dictadura.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Plomo_Informativo",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/26-de-mayo-1981-am/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/26-de-mayo-1981-am/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2372.0,2381.0"
+        }
+      }
+    }
+  ]
+}

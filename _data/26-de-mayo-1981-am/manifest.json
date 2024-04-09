@@ -23,6 +23,168 @@
         "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/26-de-mayo-1981-am/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2781,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-entrevistador.json",
+            "label": {
+              "none": ["Entrevistador"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-internacional.json",
+            "label": {
+              "none": ["Internacional"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-pierre-schori.json",
+            "label": {
+              "none": ["Pierre Schori"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-entrevistado.json",
+            "label": {
+              "none": ["Entrevistado"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-contexto-pol-tico.json",
+            "label": {
+              "none": ["Contexto político"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-sobreviviente.json",
+            "label": {
+              "none": ["Sobreviviente"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-m-sica.json",
+            "label": {
+              "none": ["Música"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-fmln.json",
+            "label": {
+              "none": ["FMLN"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-violaci-n.json",
+            "label": {
+              "none": ["Violación"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-poderes-creadores-del-pueblo.json",
+            "label": {
+              "none": ["Poderes Creadores del Pueblo"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-bajas.json",
+            "label": {
+              "none": ["Bajas"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-sobreviviente-br-violaci-n.json",
+            "label": {
+              "none": ["Sobreviviente\u003cbr\u003eViolación"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-radio-venceremos.json",
+            "label": {
+              "none": ["Radio Venceremos"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-poes-a.json",
+            "label": {
+              "none": ["Poesía"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-radio-venceremos-br-fmln.json",
+            "label": {
+              "none": ["Radio Venceremos\u003cbr\u003eFMLN"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-masacre.json",
+            "label": {
+              "none": ["Masacre"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-masacre-br-sobreviviente.json",
+            "label": {
+              "none": ["Masacre\u003cbr\u003eSobreviviente"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-plomo-informativo.json",
+            "label": {
+              "none": ["Plomo Informativo"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-periodista.json",
+            "label": {
+              "none": ["Periodista"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-efecto-de-sonido.json",
+            "label": {
+              "none": ["Efecto de sonido"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/26-de-mayo-1981-am/canvas-1/paintings",

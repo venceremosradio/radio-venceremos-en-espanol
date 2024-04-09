@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-am-canvas-1-efecto-de-sonido.json",
+  "type": "AnnotationPage",
+  "label": "Efecto de sonido",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-am-canvas-1-efecto-de-sonido-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "(Sonidos ambientales)",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Sonidos",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/26-de-mayo-1981-am/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/26-de-mayo-1981-am/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2131.0,2142.0"
+        }
+      }
+    }
+  ]
+}
