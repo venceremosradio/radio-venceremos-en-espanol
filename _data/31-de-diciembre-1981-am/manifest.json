@@ -23,6 +23,96 @@
         "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2841,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-am-canvas-1-radio-venceremos.json",
+            "label": {
+              "none": ["Radio Venceremos"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-am-canvas-1-radio-venceremos-fmln.json",
+            "label": {
+              "none": ["Radio Venceremos/FMLN"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-am-canvas-1-efectos-de-sonido.json",
+            "label": {
+              "none": ["Efectos de sonido"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-am-canvas-1-bajas.json",
+            "label": {
+              "none": ["Bajas"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-am-canvas-1-prisioneros.json",
+            "label": {
+              "none": ["Prisioneros"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-am-canvas-1-m-sica.json",
+            "label": {
+              "none": ["Música"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-am-canvas-1-armamento.json",
+            "label": {
+              "none": ["Armamento"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-am-canvas-1-comentarista-invitado.json",
+            "label": {
+              "none": ["Comentarista Invitado"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-am-canvas-1-reporte.json",
+            "label": {
+              "none": ["Reporte"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-am-canvas-1-entrevista.json",
+            "label": {
+              "none": ["Entrevista"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/31-de-diciembre-1981-am-canvas-1-enfrentamiento.json",
+            "label": {
+              "none": ["Enfrentamiento"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/31-de-diciembre-1981-am/canvas-1/paintings",
