@@ -1,0 +1,128 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/31-de-diciembre-1981-am-canvas-1-bajas.json",
+  "type": "AnnotationPage",
+  "label": "Bajas",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-bajas-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"En esa posición murieron el teniente José León Delgado Escobar, el cabo de apellido Cubías y otro cabo cuyo nombre aún no poseemos. Para las horas de la tarde nuestras fuerzas iniciaron el avance contra las posiciones enemigas en Arambala. Entrando las primeras horas de la noche habíamos arrebatado todas las posiciones de dicha población de Arambala. El enemigo salió en desbandada y completamente desorganizado\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Morazán",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2530.0,2569.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-bajas-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Bajas enemigas. Los muertos en la Guacamaya y El Mozote son 18, sin incluir las bajas en Arambala. Heridos de la dictadura en una lista incompleta aún, 21 soldados, capturados son cinco. Eran siete, pero dos capturados que estaban gravemente heridos fallecieron\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Morazán",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2629.0,2659.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-bajas-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"En los ataques a Cacaopera, San Fernando, Perquín, Torola y Joateca se hicieron siete bajas, sin incluir las de Cacaopera por no conocer el resultado. En emboscadas a los refuerzos de Gotera se le causaron 13 bajas a la dictadura. Total de bajas 64, entre ellas un teniente y dos cabos\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Morazán",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2660.0,2690.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-bajas-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Bajas por parte nuestra. Murieron los compañeros jefes de escuadra Elmer y Serapio y el segundo jefe de escuadra y ametralladorista Edwin. Resultó herido el compañero Gilberto de la sección de comandos y francotiradores\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Morazán",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2724.0,2745.0"
+        }
+      }
+    }
+  ]
+}

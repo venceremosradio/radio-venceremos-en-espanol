@@ -1,0 +1,104 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-pm-canvas-1-radio-venceremos.json",
+  "type": "AnnotationPage",
+  "label": "Radio Venceremos",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-pm-canvas-1-radio-venceremos-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Compañero obrero, estudiante, maestro, empleado, militar, patriota, señora de los mercados, pobladores de barrios y tugurios, campesinos, empleados. Radio Venceremos abre sus micrófonos a las denuncias de los problemas laborales. Denuncias de tu comunidad, de las acciones represivas de la dictadura y todo tipo de información que considerés importante para nuestro pueblo en lucha. Toda información hacer llegar a Radio Venceremos a través de la Comisión de Prensa del Frente Farabundo Martí para la Liberación Nacional o cualquier otro canal de las organizaciones revolucionarias.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/26-de-mayo-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "179.0,232.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-pm-canvas-1-radio-venceremos-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Más información a la hora de incorporarnos a las heroicas milicias populares.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/26-de-mayo-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "233.0,239.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-pm-canvas-1-radio-venceremos-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mientras tanto, varios centenares de pobladores se han visto obligados a abandonar esa región y refugiarse en la población de lo Ilobasco, ante las amenazas desatadas por la tropa genocida de dar muerte a todo el que permanezca en esa zona. Radio Venceremos en próxima emisión dará un importante parte de guerra informando sobre el avance victorioso de nuestro pueblo en los cuatro frentes de guerra. Hasta aquí Radio Venceremos presentó Plomo Informativo, rompiendo el cerco informativo de la junta fascista.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chalatenango",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/26-de-mayo-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "312.0,360.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-pm-canvas-1-radio-venceremos-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Unidos para combatir hasta la victoria final, revolución o muerte, ¡venceremos!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/26-de-mayo-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "973.0,1011.0"
+        }
+      }
+    }
+  ]
+}

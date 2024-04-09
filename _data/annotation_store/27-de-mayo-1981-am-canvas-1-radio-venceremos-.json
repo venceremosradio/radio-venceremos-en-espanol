@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-radio-venceremos-.json",
+  "type": "AnnotationPage",
+  "label": "Radio Venceremos ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-radio-venceremos--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "En Los poderes creadores del pueblo, Roque Dalton.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "925.0,929.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-radio-venceremos--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Compañero obrero, en los muros de tu fábrica la consigna es Radio Venceremos, de 6 a 7, de 6 a 7 Radio Venceremos. Expresión del Poder Popular sobre territorios controlados por nuestro pueblo en armas.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1666.0,1688.0"
+        }
+      }
+    }
+  ]
+}

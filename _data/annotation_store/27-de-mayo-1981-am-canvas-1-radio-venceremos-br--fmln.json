@@ -1,0 +1,126 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-radio-venceremos-br--fmln.json",
+  "type": "AnnotationPage",
+  "label": "Radio Venceremos<br> FMLN",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-radio-venceremos-br--fmln-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Radio Venceremos emitiendo su señal de libertad desde el Frente Oriental Francisco Sánchez, que comprende los departamentos de Usulután, San Miguel, La Unión y Morazán.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "260.0,275.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-radio-venceremos-br--fmln-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Trasmite Radio Venceremos voz oficial del Frente Farabundo Martí para la Liberación Nacional.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "FMLN",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "544.0,553.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-radio-venceremos-br--fmln-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Trasmite Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional emitiendo su señal de libertad desde el Salvador, donde todo un pueblo combate a la opresión.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "951.0,967.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-radio-venceremos-br--fmln-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Unidos para combatir hasta la victoria final. Revolución o muerte, venceremos. San Salvador, 25 de mayo de 1981. Sección de Información de la Comandancia General del Frente Farabundo Martí para la Liberación Nacional.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1488.0,1510.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-radio-venceremos-br--fmln-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Trasmite Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional. Rompiendo el cerco informativo de la dictadura.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2425.0,2437.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-poema.json",
+  "type": "AnnotationPage",
+  "label": "Poema",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-poema-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Siempre vieron al pueblo<br> como un montón de espaldas que corrían para allá<br> como un campo para dejar caer con odio los garrotes.<br> <br> Siempre vieron al pueblo como el ojo de afinar la puntería<br> y entre el pueblo y el ojo<br> la mira de la pistola o el fusil.<br> <br> (Un día ellos también fueron pueblo<br> pero con la excusa del hambre y del desempleo<br> aceptaron un arma<br> un garrote y un sueldo mensual<br> para defender a los hambreados y a los desempleadores)<br> Siempre vieron al pueblo aguantando<br> sudando<br> vociferando<br> levantando carteles<br> levantando puños<br> y cuando más diciéndoles:<br> “Chuchos hijos de puta el día les va a llegar”.<br> (Y cada día que pasaba<br> ellos creían que habían hecho el gran negocio<br> al traicionar al pueblo del que nacieron:<br> “El pueblo es un montón de débiles y pendejos —pensaban—<br> qué bien hicimos al pasarnos del lado de los vivos y de los fuertes”.)<br> <br> Y entonces era de apretar el gatillo<br> y las balas iban de la orilla de los policías y los guardias<br> contra la orilla del pueblo<br> así iban siempre<br> de allá para acá<br> y el pueblo caía desangrándose<br> semana tras semana año tras año<br> quebrantado de huesos<br> lloraba por los ojos de las mujeres y los niños<br> huía de espanto<br> dejaba de ser pueblo para ser tropel en guinda<br> desaparecía en forma de cada quién que se salvó para su casa<br> y luego nada más<br> sólo los bomberos lavaban la sangre de las calles.<br> <br> (Los coroneles los acababan de convencer:<br> “Eso muchachos —les decían—<br> duro y a la cabeza con los civiles<br> fuego con el populacho<br> ustedes también son pilares uniformados de la Nación<br> sacerdotes de primera fila<br> en el culto a la bandera el escudo el himno los próceres<br> la democracia representativa el partido oficial y el mundo libre<br> cuyos sacrificios no olvidará la gente decente de este país aunque<br> por hoy no les podamos subir el sueldo<br> como desde luego es nuestro deseo”.)<br> <br> Siempre vieron al pueblo<br> crispado en el cuarto de las torturas<br> colgado<br> apaleado<br> fracturado<br> tumefacto<br> asfixiado<br> violado<br> pinchado con agujas en los oídos y los ojos<br> electrificado<br> ahogado en orines y mierda<br> escupido<br> arrastrado<br> echando espumitas de humo sus últimos restos<br> en el infierno de la cal viva.<br> <br> (Cuando resultó muerto el décimo Guardia Nacional. Muerto<br> [por el pueblo<br> y el quinto cuilio bien despeinado por la guerrilla urbana<br> los cuilios y los Guardias Nacionales comenzaron a pensar<br> sobre todo porque los coroneles ya cambiaron de tono<br> y hoy de cada fracaso le echan la culpa<br> a “los elementos de tropa tan muelas que tenemos”.)<br> El hecho es que los policías y los guardias<br> siempre vieron al pueblo de allá para acá.<br> Que lo piensen mucho<br> que ellos mismos decidan si es demasiado tarde para buscar<br> la orilla del pueblo<br> y disparar desde allí<br> codo a codo junto a nosotros.<br> <br> Que lo piensen mucho<br> pero entre tanto<br> que no se muestren sorprendidos<br> ni mucho menos pongan cara de ofendidos<br> hoy que ya algunas balas<br> comienzan a llegarles desde este lado<br> donde sigue estando el mismo pueblo de siempre<br> sólo que a estas alturas ya viene de pecho<br> y trae cada vez más fusiles.<br>",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Poesía",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "625.0,915.0"
+        }
+      }
+    }
+  ]
+}

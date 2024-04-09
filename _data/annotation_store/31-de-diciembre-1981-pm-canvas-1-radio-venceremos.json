@@ -1,0 +1,294 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-radio-venceremos.json",
+  "type": "AnnotationPage",
+  "label": "Radio Venceremos",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-radio-venceremos-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Recordamos a nuestros oyentes que en el día de hoy, 31 de diciembre, Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional, emitirá una transmisión especial a las 10:00 PM por la misma frecuencia de nuestras emisiones habituales.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "272.0,293.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-radio-venceremos-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "El compañero y sacerdote Rogelio Ponseele oficiará una misa de fin de año en memoria a los héroes y mártires salvadoreños caídos en la lucha por la conquista de la paz, la democracia y un Gobierno de amplia participación. Repetimos, esta noche a las 10:00 PM Radio Venceremos por la frecuencia acostumbrada.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "294.0,319.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-radio-venceremos-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A continuación, Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional presenta al compañero José Leoncio Pichinte, responsable político de Radio Venceremos y miembro de la comandancia político-militar del Frente Oriental Francisco Sánchez zona norte.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "320.0,344.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-radio-venceremos-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A continuación, Radio Venceremos presenta el mensaje de año nuevo del Frente Farabundo Martí para la Liberación Nacional del pueblo salvadoreño.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1080,1093"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-radio-venceremos-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Hemos escuchado el mensaje de fin de año que envió al pueblo salvadoreño la comandancia general del Frente Farabundo Martí para la Liberación Nacional en los albores de 1982 año de las grandes victorias.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1700,1724"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-radio-venceremos-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Hacemos un llamado a nuestros oyentes de Radio Venceremos para que sintonicen la señal de libertad del Frente Farabundo Martí para la Liberación Nacional en esta misma frecuencia esta noche a las 10:00 PM cuando trasmitiremos una misa oficiada por nuestro compañero y sacerdote Rogelio Ponseele. Misa ofrecida en honor a los héroes y mártires caídos por la liberación nacional.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2248,2279"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-radio-venceremos-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Con la plena convicción a la victoria popular, Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional llega al final de esta emisión de esta hora.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2292,2305"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-radio-venceremos-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Recordamos que esta noche a las 10:00 PM, Radio Venceremos transmitirá una misa en homenaje a los mártires y héroes caídos por la revolución salvadoreña. Repetimos, Radio Venceremos esta noche a las 10:00 PM transmitirá una misa dedicada a los héroes y mártires caídos por la revolución salvadoreña. Esta noche a las 10:00 PM en Radio Venceremos.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2309,2344"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-radio-venceremos-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Expresión del poder popular sobre territorios controlados en el departamento de Morazán, Radio Venceremos transmite todos los días de las seis a las siete de la ma˜ñana y de seis a siete de la tarde a través de la frecuencia internacional de los 40 metros, siete megahercios. Hemos transmitido este 31 de diciembre desde el Salvador, Centroamérica, territorio en combate contra la opresión y el imperialismo.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2351,2385"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-radio-venceremos-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "En 1982--",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2395,2397"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-radio-venceremos-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Unidos para Combatir hasta la victoria final.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2398,2401"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-radio-venceremos-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Revolución o muerte, venceremos.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2402,2404"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-radio-venceremos-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "¡Venceremos!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2404,2405"
+        }
+      }
+    }
+  ]
+}

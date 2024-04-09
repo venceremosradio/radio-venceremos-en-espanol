@@ -1,0 +1,638 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-pichinte.json",
+  "type": "AnnotationPage",
+  "label": "Pichinte",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Faltan pocas horas para que termine este año. Un año en el que nuestro pueblo desplegando grandes sacrificios y esfuerzos ha fortalecido y consolidado, tanto sus fuerzas revolucionarias democráticas como sus instrumentos que lo están conduciendo al triunfo definitivo.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "345.0,367.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "En esta ocasión en que en nuestro pueblo se aviva el amor por la paz y la verdadera democracia. Como miembro de la comandancia político-militar de la zona norte del Frente Oriental Francisco Sánchez y como responsable político de Radio Venceremos envío un saludo revolucionario y fraternal a todos los miembros del Movimiento Nacional Revolucionario, MNR, Movimiento Popular Social Cristiano, MPSC, y al Movimiento Independiente de Profesionales y Técnicos de El Salvador, MIPTES.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "368.0,410.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A todos los miembros de la Coordinadora Revolucionaria de Masas, CRM. A todos los colaboradores y simpatizantes del Frente Democrático Revolucionario y del Frente Farabundo Martí para la Liberación Nacional y a todo nuestro pueblo en general.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "411.0,429.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Esta ocasión me es oportuna para presentar ante ustedes un informe acerca de Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional, con el objetivo de ubicar por qué surge el papel que ha jugado en el avance de la lucha de nuestro pueblo, lo que significa en el actual momento y acerca de su lugar de transmisión.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "430.0,459.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "El pueblo salvadoreño por largos años ha venido luchando por terminar con la represión, el hambre, la miseria, la opresión y el atraso a que lo han sometido el alto mando fascista de las Fuerzas Armadas, la oligarquía y el imperialismo norteamericano, por conquistar sus libertades democráticas y hacer respetar sus derechos fundamentales.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "461.0,490.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Libertades y derechos que actualmente buscamos concretizar a través de un Gobierno, que sea el resultado de la confluencia de todas las fuerzas democráticas y progresistas que buscan construir la paz y la reconstrucción para El Salvador. Dentro de este marco histórico se ha destacado la lucha por la libertad de expresión del pensamiento llevada a cabo por las fuerzas, sectores democráticos y progresistas y las fuerzas revolucionarias de la sociedad salvadoreña.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "491.0,526.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Llegamos a un momento en que la dictadura en nuestro país acaba con la libertad de expresión, son capturados, desaparecidos y asesinados periodistas. Es cerrada la crónica del pueblo. Es cerrado el periódico El Independiente. Estúpidamente dinamitada la YSAX. Es asesinado la voz de los sin voz, Monseñor Romero. Incluso, son perseguidos, capturados y hasta asesinados periodistas extranjeros destacados en el país.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "527.0,563.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Es en este contexto que el pueblo salvadoreño con sacrificio, enormes esfuerzos y con su creatividad va creando sus propios medios y métodos de expresión popular. Guiado ahora sobre la base de un poder político militar surge Radio Venceremos, el 10 de enero de este año, acompañando la ofensiva general que lanzó el pueblo vanguardizado por el Frente Farabundo Martí para la Liberación Nacional.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "564.0,599.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Radio Venceremos es el resultado de largos años de lucha de nuestro pueblo y de sus fuerzas democráticas progresistas y revolucionarias, por ello es la genuina expresión del poder popular. Por tanto, es una radio del pueblo. Y divulga todas aquellas ideas, pensamientos y posiciones que busquen verdaderamente la paz, la democracia y el bienestar para todos los salvadoreños. Divulga, pues, todo planteamiento que busque hacer avanzar hacia el progreso a la sociedad salvadoreña.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "602.0,646.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Radio Venceremos como expresión del poder popular ha jugado y seguirá jugando un valiosísimo papel en el avance de la lucha que heroicamente libra a todo el pueblo por terminar con medio siglo de dictaduras militares.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "648.0,667.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Radio Venceremos, al igual que las masas populares desplegando grandes sacrificios y esfuerzos, creatividad e iniciativa, ha mantenido informado y ha educado al valiente y heroico pueblo salvadoreño. Ha informado a los demás pueblos del mundo. Ha combatido la desinformación que lanza el imperialismo yankee y la dictadura militar demócrata cristiana. Ha sabido destacar el desarrollo del poder popular y ha orientado a las grandes masas populares en su lucha.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "668.0,709.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "En las condiciones actuales del desarrollo de nuestra guerra, Radio Venceremos también llena en gran medida la insuficiencia de propaganda escrita de las fuerzas democráticas, progresistas y revolucionarias de nuestra patria. La existencia de Radio Venceremos en el departamento de Morazán expresa de manera clara lo inevitable del triunfo del pueblo salvadoreño y de lo indestructible que es el Frente Farabundo Martí para la Liberación Nacional.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "710.0,746.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "El psicópata del coronel García ha informado varias veces que ha destruido a Radio Venceremos y siempre ha sido falso. Siempre Radio Venceremos ha transmitido. Lo mismo acaba de pasar, lanzaron un operativo genocida que buscaba destruir a la radio. Nosotros desde antes ya sabíamos de este operativo y de sus intenciones, lo dimos a conocer y nos preparamos para derrotarlo.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "747.0,778.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Así, desde días antes, Radio Venceremos redujo el tiempo de transmisiones a 15 y 20 minutos, nos alistábamos para entrar en la guerra de movimientos. García, después de que no salimos al aire, dijo pomposamente habernos destruido y capturado al personal intentando con ello desmoralizar a nuestro valiente pueblo.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "779.0,808.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "¿Qué ha pasado? Después, Radio Venceremos sigue transmitiendo y con su mismo personal desde el departamento de Morazán, le guste o no le guste al coronel García y a la genocida junta militar demócrata cristiana. Radio Venceremos transmite dese el departamento de Morazán no desde Nicaragua como pretende hacerlo creer este señor.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "809.0,838.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Esta acusación más bien es una forma de evadir el hecho de que las fuerzas revolucionarias han fortalecido y consolidado una retaguardia y un poder en El Salvador. Al no poder destruirla, tratando de matar su chucho a tiempo declara que en Morazán lo que está es una repetidora y que el transmisor está en Nicaragua y que hasta allá no puede ir.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "840.0,871.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Es tanto el dolor que le causa Radio Venceremos que se desespera y ya no puede ni mentir. Si Radio Venceremos estuviera en Nicaragua no había razón para que al momento de los combates dejara de transmitir. Al contrario, hubiéramos salido con mejores programas y mayor calidad técnica dada las condiciones.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "872.0,900.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Además, pónganse a pensar que la voz de Nicaragua se escucha en El Salvador y sin tener un repetidora aquí, lo mismo podríamos haber hecho nosotros. Es decir, desde el punto de vista técnico este señor no puede engañar a nadie, tampoco lo puede desde el punto de vista de los principios políticos del Frente Farabundo Martí para la Liberación Nacional y el Frente Democrático Revolucionario.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "901.0,930.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Nosotros como revolucionarios democráticos tenemos principios, respetamos la soberanía territorial de los demás pueblos, no somos como el psicópata de García y la junta, sin principios, que fácilmente se pasan al territorio de Honduras para combatir contra nuestras fuerzas violando así la soberanía de ese hermano pueblo. Nosotros no somos como los gusanos cubanos que con tranquilidad han montado una radio en territorio norteamericano, nosotros tenemos principios políticos.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "931.0,969.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "En tal sentido, Radio Venceremos es una radio dentro del territorio salvadoreño en el departamento de Morazán. Es una radio en guerra, si no, no fuera Radio Veneremos. Está ubicada en territorios controlados por nuestras fuerzas. Es una valiosa conquista de nuestro pueblo alzado en armas. La verdad de las cosas es que quieren ocultar el hecho de que existe Radio Venceremos y que el ejército sabe dónde está y no puede destruirla. Es una prueba de lo cercano que se encuentra el triunfo para el pueblo salvadoreño.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "970.0,1011.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-pichinte-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Finalmente, quiero reiterar que estamos hoy más que nunca con la inquebrantable decisión de continuar aún con mayor esfuerzo cumpliendo con las tareas y misiones encomendadas por nuestra comandancia general y con las necesidades de la lucha de nuestro pueblo, rompiendo así el cerco informativo fascista e imperialista, educando a nuestro pueblo, orientando a las grandes masas populares que cada vez se acercan más hacia la derrota de la dictadura militar demócrata cristiana e informando al resto de los pueblos del mundo. Revolución o muerte, venceremos.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Pichinte_José_Leoncio",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1012.0,1058.0"
+        }
+      }
+    }
+  ]
+}

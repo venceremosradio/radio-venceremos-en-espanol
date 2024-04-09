@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-pm-canvas-1-radio-venceremos-br-fmln.json",
+  "type": "AnnotationPage",
+  "label": "Radio Venceremos<br>FMLN",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-pm-canvas-1-radio-venceremos-br-fmln-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Con un revolucionario saludo a la clase trabajadora salvadoreña, Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional, llega al final de sus emisiones de esta hora. Recordando que Radio Venceremos, transmite todos los días de 6:00 a 7:00 en la mañana y de 6:00 a 7:00 en la tarde. Radio Venceremos, expresión del poder popular sobre territorios controlados por nuestro pueblo en armas.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/26-de-mayo-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1018.0,1026.0"
+        }
+      }
+    }
+  ]
+}

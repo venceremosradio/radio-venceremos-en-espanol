@@ -1,0 +1,98 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-comentarista-invitado.json",
+  "type": "AnnotationPage",
+  "label": "Comentarista Invitado",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-comentarista-invitado-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "¿Qué clase de democracia es esta? En nuestro país concretamente no pueden haber elecciones por no existir un Gobierno honesto que las garantice. El pueblo está cansado de este engaño y hoy además de decir, \"Basta ya a los fraudes electorales\", lucha con las armas en la mano para conquistar su verdadera libertad, el Gobierno democrático y revolucionario, el cual será garantizado por un ejército de nueve equipos que serán integrados por las fuerzas del Frente Farabundo Martí para la Liberación Nacional y las fuerzas de la Juventud Militar que serán una garantía férrea para el Gobierno y el pueblo salvadoreño.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Mena_Sandoval",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "424.0,449.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-comentarista-invitado-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "La proclama de la Juventud Militar y el Frente Farabundo Martí para la Liberación Nacional, marca el punto de partida hacia la paz de nuestra patria y marca históricamente un compromiso revolucionario para y por el pueblo.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Mena_Sandoval",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "470.0,487.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-comentarista-invitado-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Militar patriota el pueblo es primero, únete, lucha, libertad y patria. Juventud Militar del ejército salvadoreño.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Mena_Sandoval",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "489.0,501.0"
+        }
+      }
+    }
+  ]
+}

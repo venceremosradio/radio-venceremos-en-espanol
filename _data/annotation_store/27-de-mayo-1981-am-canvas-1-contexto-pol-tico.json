@@ -1,0 +1,308 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-contexto-pol-tico.json",
+  "type": "AnnotationPage",
+  "label": "Contexto político",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-contexto-pol-tico-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Estas palabras de un joven salvadoreño que empuñó las armas que le dio la dictadura, y que hoy empuña las armas del pueblo, es el reflejo fiel de lo que sucede en el seno de las Fuerzas Armadas.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Contexto_político",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2043.0,2060.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-contexto-pol-tico-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Es la toma de conciencia de quienes perteneciendo a las clases explotadas de este país, han permanecido engañados por un alto mando militar criminal. Quiénes han sido reclutados a la fuerza o por necesidad han permanecido en el ejército al servicio de la opresión, esos soldados campesinos han comenzado a abrir los ojos, han cuestionado la trinchera que han ocupado, han comenzado a hacerse preguntas. \"¿Por qué lucho? ¿A quiénes sirvo? ¿Por quiénes estoy entregando hasta mi propia vida?\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Contexto_político",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2061.0,2111.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-contexto-pol-tico-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "En Jucuarán departamento de Usulután, soldados de la tercera brigada se negaron a combatir contra las fuerzas del Frente Farabundo Martí para la Liberación Nacional. En Torola cinco policías de hacienda abandonaron ese cuerpo junto con su arma y equipo militar. En todo el país está sucediendo lo mismo, soldados que se han concientizado ante la miseria que ellos conocen en su propia raíz, la represión que ellos mismos han ejecutado como instrumentos ciegos del poder oligárquico, y los designios del imperialismo.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Contexto_político",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2111.0,2158.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-contexto-pol-tico-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Los soldados tienen en su propio pueblo su puesto de combate, y quienes han tomado esa decisión, y se han integrado a nuestras filas han sido recibidos por sus hermanos de clase con el respeto y la fraternidad que ya todos conocen.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Contexto_político",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2159.0,2182.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-contexto-pol-tico-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Recientemente lo demostramos con el caso del soldado Santos Enrique Díaz Alvarenga, de la tercera brigada de San Miguel. Ahora lo acabamos de escuchar el testimonio de Santiago Argueta Sánchez exguardia civil en Villa del Rosario. En esta población cuando nuestras fuerzas tomaron las posiciones del enemigo, Santiago Argueta Sánchez ante el llamado de nuestros combatientes depuso sus armas, y se entregó a nuestras fuerzas.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Contexto_político",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2184.0,2224.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-contexto-pol-tico-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Enseguida manifestó su deseo sincero, consciente, de integrarse a las filas del pueblo, y en las declaraciones que nos ha brindado recalcó lo que todos sabemos, en el Ejército Nacional existen profundas contradicciones entre el alto mando militar y oficiales, clases, y soldados que no están de acuerdo con el genocidio.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Contexto_político",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2225.0,2258.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-contexto-pol-tico-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Por otra parte para agudizar más estas contradicciones, dentro del Ejército Nacional la oficialidad de joven no puede ver con buenos ojos que día a día los asesores militares yanquis tomen mayor parte en la conducción de la guerra contra el pueblo, dándole cada día un carácter más criminal.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Contexto_político",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2259.0,2284.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-contexto-pol-tico-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "El caso de los soldados que desobedecieron las órdenes de combatir contra las posiciones del Frente Farabundo Martí para la Liberación Nacional, es decir, las posiciones del pueblo, mueve a reflexiones alentadoras en torno a lo que está sucediendo en el seno del ejército, que por otra parte no ha podido obtener ninguna victoria militar en todos los operativos contra nuestras posiciones en todo el territorio nacional.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Contexto_político",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2285.0,2324.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-contexto-pol-tico-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mientras esto sucede el pueblo se incorpora a las milicias, se incorpora a su ejército, se integra a las milpas del pueblo para producir los alimentos de su ejército revolucionario, consolida las zonas bajo su control, mientras que la dictadura vive su peor momento.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Contexto_político",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2325.0,2353.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-contexto-pol-tico-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "El pueblo cada día se convence más que la victoria está al alcance de sus manos unidas y perseverantes. La esperanza nos embarga a todos, y por eso cerramos los puños, y a golpes de combate estamos alcanzando la victoria. Es decir, hoy como nunca tenemos la convicción de que venceremos, lo que quiere decir que pronto conquistaremos la paz, y la justicia social para nuestro pueblo.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Contexto_político",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2354.0,2391.0"
+        }
+      }
+    }
+  ]
+}

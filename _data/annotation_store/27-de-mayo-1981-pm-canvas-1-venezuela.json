@@ -1,0 +1,98 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-pm-canvas-1-venezuela.json",
+  "type": "AnnotationPage",
+  "label": "Venezuela",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-pm-canvas-1-venezuela-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Duarte, un hombre de paja, afirma expresidente de Venezuela. El expresidente venezolano Carlos Andrés Pérez, declaró en Caracas que los imperialistas norteamericanos afirman engañosamente, que en América Latina lo que existe es una lucha entre comunismo y anticomunismo, y consideran a los militares más reaccionarios como la mejor garantía de sus intereses.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrés_Pérez",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "183.0,216.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-pm-canvas-1-venezuela-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "El exmandatario afirmó que el problema en América Latina no es el comunismo, sino el respeto a los derechos humanos. Así mismo dijo que al identificarse la línea política de Venezuela con la nueva política del gobierno de los Estados Unidos, el país suramericano está cayendo en una grave confusión.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrés_Pérez",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "217.0,241.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-pm-canvas-1-venezuela-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "En lo que se tiene como un ataque contra la política exterior de Herrera Campíns, que apoya a la junta genocida de El Salvador, señaló que en El Salvador lo que hay es un gobierno militar retrógrado, genocida, reaccionario, que tiene como mampara a un hombre de paja, refiriéndose a Duarte. Aunque la realidad es que en El Salvador gobiernan los militares que torturan y violan los derechos humanos.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andrés_Pérez",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "242.0,276.0"
+        }
+      }
+    }
+  ]
+}

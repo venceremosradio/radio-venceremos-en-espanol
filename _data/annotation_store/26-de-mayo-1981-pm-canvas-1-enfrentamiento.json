@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-pm-canvas-1-enfrentamiento.json",
+  "type": "AnnotationPage",
+  "label": "Enfrentamiento",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-pm-canvas-1-enfrentamiento-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Igualmente, la dictadura declaró que en los últimos días cerca de 2.000 combatientes del FMLN construyeron fortificaciones en el Cerro Eramón, departamento de Chalatenango, a pocos kilómetros de la presa hidroeléctrica del Cerrón Grande y la presa Cinco de Noviembre, las más importantes del país. La dictadura ha anunciado, por otra parte, la preparación de una ofensiva contra los combatientes acampados en el Cerro Eramón.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chalatenango",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/26-de-mayo-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "270.0,311.0"
+        }
+      }
+    }
+  ]
+}

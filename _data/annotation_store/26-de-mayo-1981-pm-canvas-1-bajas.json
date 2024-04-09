@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-pm-canvas-1-bajas.json",
+  "type": "AnnotationPage",
+  "label": "Bajas",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-pm-canvas-1-bajas-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "El evidente desgaste que las fuerzas del pueblo están produciendo día a día en las filas del ejército genocida ya no puede ser ocultado por los mandos genocidas. La junta de Gobierno, a través de un vocero de la fuerza armada, ha reconocido ante la prensa haber sufrido 20 bajas en las últimas 24 horas.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/26-de-mayo-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "240.0,269.0"
+        }
+      }
+    }
+  ]
+}

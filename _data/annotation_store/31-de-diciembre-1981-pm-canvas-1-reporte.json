@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-reporte.json",
+  "type": "AnnotationPage",
+  "label": "Reporte",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-reporte-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sobre esto informaremos con más detalles en las próximas horas. Los mandos ejecutivos del ataque al enemigo en la Guacamaya y El Mozote son los siguientes, mando general, compañero comandante Silvio de Jesús Argueta, \"Licho\". Mandos de las diferentes direcciones de ataque, compañeros comandante Bracamonte, El Mozote y Arambala, comandante Gallo, cerro los Márquez, cerro Guadalupe, comandante Ángel, pie del Cerro Redondo y escuela de la Guacamaya.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Reporte",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4.0,43.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-reporte-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mantenemos siempre indeclinable nuestra decisión de vencer y nuestra profunda convicción de que la lucha heroica de nuestro pueblo culminará con la expulsión de las dictaduras y los asesinos en nuestra patria.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Reporte",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "107.0,126.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-reporte-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reiteramos nuestra confianza en una conjugación de esfuerzos con todos los sectores democráticos del país para encontrar la solución política a la crisis salvadoreña que enrumbe nuestro proceso hacia la consolidación de una salida democrática, condición indispensable para el desarrollo de nuestra economía, nuestra sociedad y la fortaleza de nuestro sistema jurídico-político.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Reporte",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "127.0,162.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-reporte-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Aprovechamos esta fecha de fin de año para saludar a todos nuestros compañeros militantes del Frente Farabundo Martí para la Liberación Nacional en las diferentes tareas, tanto en los frentes de guerra como en las batallas del frente exterior en la solidaridad y la lucha diplomática y a nuestros compañeros militantes que luchan en las cárceles en el quinto frente de guerra.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Reporte",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "163.0,196.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-reporte-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Saludamos a nuestro heroico pueblo seguros de que 1982 es el año que reivindicará con una victoria popular la sangre derramada por más de 30.000 salvadoreños. Unidos para combatir hasta la victoria final, revolución o muerte, venceremos. Por la comandancia político-militar del Frente Oriental Francisco Sánchez, comandante Jorge Meléndez, \"Jonás\", comandante Juan Ramón Medrano, \"Balta\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Reporte",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "197.0,240.0"
+        }
+      }
+    }
+  ]
+}

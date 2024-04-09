@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-bajas-br--violencia-contra-ni-os.json",
+  "type": "AnnotationPage",
+  "label": "Bajas<br> Violencia contra niños",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-bajas-br--violencia-contra-ni-os-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Allí mataron al que agarraron, mataron 19 entre niños y viejitos solo porque eran refugiados y otros allí del mero pueblo los andaban en la lista para matarlos, pero lo cual que mataron 19 muertes entre niños, viejitos y mujeres dando de mamar.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Morazán",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1742.0,1760.0"
+        }
+      }
+    }
+  ]
+}

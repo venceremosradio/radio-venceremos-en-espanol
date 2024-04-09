@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-pm-canvas-1-bajas.json",
+  "type": "AnnotationPage",
+  "label": "Bajas",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-pm-canvas-1-bajas-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "La semana pasada en la población de Corinto en Morazán se produjo un enfrentamiento entre guardias nacionales contra los patrulleros paramilitares, resultando heridos dos agentes de la guardia nacional. Posteriormente llegó un helicóptero y desarmaron a todos los paramilitares y se llevaron las armas.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Morazán",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "115.0,137.0"
+        }
+      }
+    }
+  ]
+}

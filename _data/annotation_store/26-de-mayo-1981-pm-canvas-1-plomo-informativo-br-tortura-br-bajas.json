@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-pm-canvas-1-plomo-informativo-br-tortura-br-bajas.json",
+  "type": "AnnotationPage",
+  "label": "Plomo Informativo<br>Tortura<br>Bajas",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-pm-canvas-1-plomo-informativo-br-tortura-br-bajas-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Uno de los dos trabajadores capturados logró escapar del puesto de la guardia, mientras el otro obrero, después de ser cruelmente torturado, fue asesinado. En días pasados también fueron asesinados por orden de los serviles mencionados, otros trabajadores cuyos nombres son Donato Salvador, Leonardo Blanco y Carmen Fuentes.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "La_Unión",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/26-de-mayo-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "122.0,146.0"
+        }
+      }
+    }
+  ]
+}

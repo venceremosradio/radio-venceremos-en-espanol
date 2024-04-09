@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-pm-canvas-1-enfrentamiento.json",
+  "type": "AnnotationPage",
+  "label": "Enfrentamiento",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-pm-canvas-1-enfrentamiento-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Así mismo, a la preocupación de la Universidad Autónoma de Honduras, ante la detención y desaparición de 14 refugiados salvadoreños en Tegucigalpa, entre los que se encuentran estudiantes universitarios y cuatro niños. Agrega el comunicado que el hecho se ha admitido inicialmente por las autoridades hondureñas y negados por varios puestos del ejército hondureño, lo cual aumenta la preocupación por la seguridad personal de estos compatriotas.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Desaparecidos",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "64.0,102.0"
+        }
+      }
+    }
+  ]
+}

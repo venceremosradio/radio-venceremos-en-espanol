@@ -1,0 +1,140 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-contexto-pol-tico.json",
+  "type": "AnnotationPage",
+  "label": "Contexto Político",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-contexto-pol-tico-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pedimos a estos organismos y entidades que sean los ojos de la conciencia mundial para que no sean pisoteados de manera tan desfachatada los derechos de todo un pueblo y que se caracterice pomposamente como tácticas utilizadas en Vietnam o asesoría militar a lo que es un descarado apoyo y respaldo a un crimen masivo.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2045,2078"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-contexto-pol-tico-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cuando un Gobierno no tiene más política que el genocidio y más sostén que un aparato militar y la injerencia extranjera, no queda más alternativa que la lucha con las armas en la mano a la par de este pueblo heroico y la búsqueda de la unidad de esfuerzos con todos los sectores conscientes y democráticos del país para lograr la instauración de un régimen de libertades democráticas verdaderas e iniciar un proceso de construcción económica y de estabilización social y política.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2079,2125"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-contexto-pol-tico-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ese es nuestro grito a la conciencia de todos los pueblos del mundo. Ese es nuestro grito a que salgan las manos intervencionistas de nuestro país. Esa es nuestra reiteración del llamado a los organismos y entidades humanitarias a constatar esta cruda realidad de genocidio como política de la Junta Democratacristiana.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2126,2155"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-contexto-pol-tico-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reiteramos nuevamente a nuestro pueblo la profunda decisión de luchar indeclinables hasta vencer, visualizando 1982 como el año de las grandes victorias democráticas y populares. Unidos para combatir hasta la victoria final, revolución o muerte, venceremos.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2156,2181"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-contexto-pol-tico-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Por la comandancia político-militar del Frente Oriental Francisco Sánchez, zona norte. Comandante Jorge Meléndez, \"Jonás\", responsable político militar de la comandancia general. Comandante Heleno Castro, \"Carmelo\", jefe de personal. Comándate Bruno Caballero, \"Quincho\", jefe de logística. Comandante Santos Lino Caballero, \"Melo\". Comandante William Pascasio primer jefe de operaciones.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2182,2216"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-contexto-pol-tico-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Comandante Silvio de Jesús Argueta, \"Licho\", jefe de operaciones. Compañero José Leoncio Pichinte responsable político del frente nororiental y responsable político de Venceremos. Aprobado también por el comandante Juan Ramón Medrano, \"Balta\". Morazán, 31 de diciembre de 1981.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2217,2247"
+        }
+      }
+    }
+  ]
+}

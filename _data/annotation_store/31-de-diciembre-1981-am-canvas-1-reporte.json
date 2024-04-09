@@ -1,0 +1,382 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/31-de-diciembre-1981-am-canvas-1-reporte.json",
+  "type": "AnnotationPage",
+  "label": "Reporte",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-reporte-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Estas son nuestras informaciones.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Reporte",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2154.0,2157.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-reporte-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sacerdote norteamericano acusa a administración Reagan. Los Estados Unidos juegan un papel destructivo en América Latina y países del continente aplicando una peligrosa política semejante a la que les condujo en los años 60 a la guerra de Vietnam, declaró el sacerdote norteamericano Albert Edimen que vivió durante 30 años en El Salvador y Guatemala.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "EE.UU.",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2159.0,2189.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-reporte-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Las fuerzas que se oponen a la dictadura salvadoreña, expresó el sacerdote, crecen día a día y cada vez logran mayores éxitos en su lucha. Volviendo al tema de la injerencia de los Estados Unidos, el sacerdote Reitman afirmó que la ayuda norteamericana a los países del área se circunscribe al suministro de armas y al envío de asesores militares. A la hora en que las fuerzas del Frente Oriental Francisco Sánchez ponen en desbandada a la fuerzas de la dictadura, más información.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "EE.UU.",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2190.0,2229.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-reporte-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Continúa solidaridad para con nuestro pueblo en Venezuela.  Más de 1.500 estudiantes de la universidad venezolana del estado de Zulia condenaron la injerencia de Venezuela y Estados Unidos en nuestro país.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Venezuela",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2230.0,2242.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-reporte-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "En un anuncio publicado en el periódico El Nacional de aquel país los estudiantes universitarios manifestaron su repudio y preocupación por el triste y vergonzoso papel que está jugando en Venezuela al colaborar con la dictadura militar democratacristiana salvadoreña en el genocidio sin precedentes que esta viene realizando desde que usurpó el poder.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Venezuela",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2243.0,2267.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-reporte-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "De nuevo prorrogan estado de sitio. Por 30 días más fue prorrogado el estado de sitio, anunció el pasado martes la Junta Militar Democristiana. El estado de sitio fue implantado en nuestro país el seis de marzo del corriente año, fecha desde la cual le fue suspendida al pueblo salvadoreño las libertades constituciones, especialmente en lo que respecta a la inviolabilidad de la correspondencia libre tránsito por el territorio nacional y el derecho a la libre expresión.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2268.0,2306.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-reporte-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Dentro de breves instantes, Radio Venceremos presentará el mensaje de fin de año de la comandancia general del Frente Farabundo Martí para la Liberación Nacional, vanguardia político-militar de nuestro pueblo.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2307.0,2320.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-reporte-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A continuación, recibimos un informe de guerra del Frente Paracentral Anastasio Aquino que dice así, \"29 de diciembre, este día un pelotón del ejército del FMLN colocó emboscadas de aniquilamiento a fuerzas enemigas de la dictadura a las 6:35 AM en el kilómetro 78 de la carretera panamericana en el departamento de San Vicente. A las 10:20 AM el enemigo se hizo presente en un vehículo particular donde se transportaban unos 12 efectivos del ejército vestidos de civil portando todos fusiles G-3.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "San_Vicente",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2321.0,2363.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-reporte-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Nuestras fuerzas que ya se encontraban apostadas se prepararon para el ataque. El enemigo logró detectarlos y huyeron espantados y gritando, desorganizando la marcha por diferentes rumbos. Este primer ataque fue efectivo, pero cuando el enemigo creyó habernos golpeado se encontró con una emboscada nuestra que se encontraba a unos 150 metros del anterior la cual sorprendió al enemigo disparando ráfagas con fusilería automática a una distancia de 4 metros sobre el objetivo\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "San_Vicente",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2364.0,2402.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-reporte-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"El ataque duró 10 minutos ya que el vehículo detuvo momentáneamente la marcha para luego escaparse de nuestros heroicos combatientes. Nuestros compañeros reportan las bajas de ocho efectivos de la dictadura entre muertos y heridos. Posteriormente, a las 10:35 AM, nuestras fuerzas se retiraron ordenadamente\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "San_Vicente",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2403.0,2429.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-reporte-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Recordamos que Radio Venceremos esta noche a las 10:00 PM transmitirá una misa en homenaje a los héroes y mártires caídos por la revolución salvadoreña.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "San_Vicente",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2430.0,2442.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-reporte-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Y ahora recibimos un parte de guerra del Frente Oriental Francisco Sánchez que refleja las victorias que nuestro pueblo ha alcanzado en las últimas horas en el departamento de Morazán.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Morazán",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2443.0,2456.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-reporte-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Al mismo tiempo que damos este comunicado al pueblo salvadoreño, hacemos un llamado a la Cruz Roja Internacional, a los familiares de los soldados y de los clases, así como del oficial caído para que recojan los cadáveres de sus familiares, estos se encuentran enterrados en el volcancillo de Joateca. También pueden ser entregados a la misma Fuerza Armada por intermedio de la Cruz Roja Internacional\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Cruz_Roja",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2746.0,2784.0"
+        }
+      }
+    }
+  ]
+}

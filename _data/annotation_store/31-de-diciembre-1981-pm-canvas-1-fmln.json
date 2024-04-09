@@ -1,0 +1,360 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-fmln.json",
+  "type": "AnnotationPage",
+  "label": "FMLN",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Este mensaje de año nuevo del Frente Farabundo Martí para la Liberación Nacional al pueblo salvadoreño llega en momentos en que el desarrollo de la guerra señala un horizonte de optimismo y esperanza para alcanzar el objetivo popular de conquistar la democracia, la justicia social y la paz.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1101,1127"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "La heroica lucha del pueblo nos permite expresar la confianza de que en 1982 será un nuevo año que traerá grandes victorias para nuestro pueblo en su lucha por instaurar un régimen de amplia participación y de plena autodeterminación de nuestro destino nacional.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1128,1155"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "En nuestro reciente y último pronunciamiento hacíamos un balance del año, un balance favorable a la lucha ejemplar de nuestro pueblo y exponíamos los fracasos y derrotas sucesivas de las tácticas que la dictadura militar democristiana ha puesto en práctica.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1156,1180"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "El año de 1982 ofrece dos caminos y una sola vía de solución. Por una parte, un túnel oscuro y sin salida que solo significa muerte y destrucción representado por el actual Gobierno en franco deterioro político, económico y militar, y vanamente empecinado en prolongar su agonía mediante la creciente intervención del Gobierno de los Estados Unidos.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1181,1222"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Por otra parte, el camino del pueblo hacia la solución verdadera que recoge las aspiraciones de paz, no solo de las más amplias mayorías nacionales, sino de los pueblos de Centroamérica y de toda la comunidad internacional que se preocupa e interesa por una solución democrática integral.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1223,1254"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Nuestros avances militares posibilitan también nuestros avances políticos. Nuestra responsabilidad con el pueblo nos obliga a progresar en el desarrollo de una política de búsqueda de la mejor solución que evite la prolongación de la guerra y de los sufrimientos del pueblo, la intervención mayor y masiva del Gobierno de los Estados Unidos y la regionalización del conflicto salvadoreño.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1255,1295"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Nuestra voluntad está empeñada en ello, pero igualmente está firmemente decidida a continuar y a avanzar en la lucha militar y política mientras los enemigos de la paz y del pueblo persistan en su estrategia de guerra de exterminio popular con disfraz electoral.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1296,1325"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Este nuevo año es una ocasión oportuna para que le reiteremos al pueblo salvadoreño nuestra disposición, interés y voluntad de diálogo, entendimiento y negociación para alcanzar una solución política justa con todos los sectores y grupos políticos, económicos y sociales interesados en participar en el esfuerzo común de construir una patria libre de opresión, represión y terror en la que impere la convivencia democrática y prevalezcan los intereses populares.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1326,1375"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Nacional e internacionalmente es creciente la convicción que se fundamenta en la realidad de que sin el movimiento revolucionario y democrático no puede haber solución política al conflicto armado.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1376,1399"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "La fuerza moral y política que tienen el Frente Farabundo Martí para la Liberación Nacional y el Frente Democrático Revolucionario nos impulsan a continuar desarrollando en 1982 su oferta de paz, pero también a profundizar y a avanzar en la guerra si persiste la voluntad genocida y antidemocrática del actual Gobierno y de su principal apoyo la administración Reagan de los Estados Unidos.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1400,1443"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Esta fuerza es respaldada por el espíritu firme de nuestros combatientes y de la gran mayoría del pueblo que los estimula y apoya de diversas formas. Mantenemos una posición consecuente, libre de prepotencias y de criterios excluyentes a fin de ampliar y mejorar las posibilidades de búsqueda de un acuerdo nacional que conduzca a una solución justa y verdadera.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1444,1484"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "La comandancia general del Frente Farabundo Martí para la Liberación Nacional saluda en este fin de año de manera fraternal y revolucionaria a todos y cada uno de los heroicos combatientes y militantes de todas las áreas de trabajo de nuestra organizaciones que con su esfuerzo y empeño han fortalecido política y militarmente a nuestro pueblo en este año de grandes victorias.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1485,1525"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Saludamos en este fin de año la memoria de nuestros héroes y mártires que durante este año dieron su vida por la noble causa de la justicia, la paz y la democracia. Saludamos en este fin de año a nuestros hermanos presos y desaparecidos que desde las cárceles derrotan a la dictadura con las armas de la dignidad revolucionaria, poniendo en alto el espíritu y el coraje de las fuerzas de nuestro pueblo. Saludamos en este fin de año a nuestro pueblo trabajador, esforzado y heroico y nos comprometemos a seguir siendo fieles a sus intereses.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1526,1582"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Saludamos en este fin de año a los sectores democráticos del ejército de la empresa privada, de la iglesia y a las organizaciones políticas y gremiales que anhelan la paz y la justicia. Los instamos a que juntos y sin prepotencia encontremos el camino de la solución justa. Saludamos y agradecemos en este fin de año a todos los pueblos, gobiernos y organizaciones políticas y humanitarias que le han brindado a nuestro pueblo una solidaridad moral, material y política de un valor incalculable.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1583,1639"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reiteramos finalmente que pondremos todos nuestros esfuerzos porque 1982 sea el año en que triunfen la justicia y la paz en nuestra patria por el camino que la circunstancias nos impongan. Unidos para combatir hasta la victoria final, revolución o muerte, venceremos.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1640,1670"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-fmln-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Fermán Cienfuegos, Salvador Cayetano Carpio, \"Marcial\", Schafik Jorge Hándal, Roberto Roca y Joaquín Villalobos por la comandancia general del Frente Farabundo Martí para la Liberación Nacional. El Salvador, 30 de diciembre de 1981.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1671,1699"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/31-de-diciembre-1981-am-canvas-1-enfrentamiento.json",
+  "type": "AnnotationPage",
+  "label": "Enfrentamiento",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-enfrentamiento-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"La comandancia general político y militar del Frente Oriental Francisco Sánchez comunica al pueblo salvadoreño que en la zona norte el día 29 de diciembre en horas de la mañana dio inicio una operación en todo el frente norte que consistió en el ataque simultáneo a las posiciones enemigas ubicadas en Joateca, Cacaopera, Perquín, San Fernando, Torola, El Mozote y la Guacamaya\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Morazán",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2457.0,2490.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-am-canvas-1-enfrentamiento-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Este mismo día nuestras fuerzas del Frente Oriental en el sur incursionan nuevamente en las ciudades de San Miguel y Usulután a partir de las 8:30 PM, sosteniéndose dentro de estas ciudades fuertes combates sin tener hasta el momento todos los datos precisos\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Morazán",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2804.0,2831.0"
+        }
+      }
+    }
+  ]
+}

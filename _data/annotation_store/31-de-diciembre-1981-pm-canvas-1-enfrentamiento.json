@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-enfrentamiento.json",
+  "type": "AnnotationPage",
+  "label": "Enfrentamiento",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-enfrentamiento-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Otros mandos destacados son los comandantes de pelotón, compañero Freddy, compañeros Sánchez y los compañeros de la sección de comandos y francotiradores y de la escuadra de ametralladoristas. Por otra parte, la incursión a las posiciones enemigas en la ciudad de San Miguel estuvo a cargo del compañero comandante Faustino y la incursión a Usulután a cargo del compañero comandante Chungo.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "San_Miguel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "44.0,78.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-enfrentamiento-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Al mando de la emboscada de contención a los refuerzos de San Francisco Gotera estuvo el compañero jefe de zona y comandante Javier. A estos jefes, a los jefes de los ataques, a todas las poblaciones y a todos nuestros heroicos combatientes nuestro reconocimiento público a su valentía y abnegación para con la causa de nuestro pueblo.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "San_Miguel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "79.0,106.0"
+        }
+      }
+    }
+  ]
+}

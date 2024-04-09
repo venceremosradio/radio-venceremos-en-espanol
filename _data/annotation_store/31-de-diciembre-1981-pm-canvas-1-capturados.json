@@ -1,0 +1,98 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/31-de-diciembre-1981-pm-canvas-1-capturados.json",
+  "type": "AnnotationPage",
+  "label": "Capturados",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-capturados-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Parte de guerra de la comandancia general del Frente Oriental Francisco Sánchez, zona norte. La comandancia general del Frente Oriental Francisco Sánchez, zona norte, comunica al pueblo salvadoreño que a todos los capturados de Perquín y la Guacamaya en agosto de este año, así como a todos los capturados en los días 29 y 30 de diciembre de este año en la Guacamaya ha decidido dejarlos en libertad.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Capturados",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1724,1761"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-capturados-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Los compañeros Pablo Arana Pacheco, Juan Antonio Peñate, Santos Diego Diaz, Luis Sandoval y Luis Alonso Torres. Esta noticia no se dio a conocer antes en base a una petición de los mismos exprisioneros de mantener tres días de secreto para proteger sus movimientos ya que si la junta se daba cuenta los buscarían para matarlos.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Capturados",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1808,1842"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "31-de-diciembre-1981-pm-canvas-1-capturados-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Igual decisión se ha tomado con los prisioneros hechos en la Guacamaya. Serán dejados en libertad en las próximas 72 horas. Son ellos el subsargento Manuel Antonio Rosales de 25 años. El soldado Gerber Francisco Lemus Castillo de 18 años. El soldado Gilberto Morales Barrera de 18 años. El soldado Nelson Ernesto Orellana de 25 años. El soldado Alberto Martínez Villalta de 15 años de edad.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Capturados",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/31-de-diciembre-1981-pm/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1843,1888"
+        }
+      }
+    }
+  ]
+}

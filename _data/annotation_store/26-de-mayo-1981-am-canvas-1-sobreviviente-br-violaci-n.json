@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-am-canvas-1-sobreviviente-br-violaci-n.json",
+  "type": "AnnotationPage",
+  "label": "Sobreviviente<br>Violación",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-am-canvas-1-sobreviviente-br-violaci-n-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Toda esa gente fue violada primero y allí la mataron solo a cuchilladas, degolladas los hicieron a toda esa gente, dicen allí. Aquí todos esos norteamericanos que andaban con ese Napoleón Medina Garay. Sí. Y así es que mataron todos esos niños tiernitos, y también una niña de dos días. Se llamaba Dominga Díaz.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "El_Junquillo",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/26-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1644.0,1668.0"
+        }
+      }
+    }
+  ]
+}

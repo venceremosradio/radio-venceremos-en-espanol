@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-bajas-br--enfrentamiento.json",
+  "type": "AnnotationPage",
+  "label": "Bajas<br> Enfrentamiento",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-bajas-br--enfrentamiento-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Por nuestra parte nos retiramos sin sufrir ninguna baja después de haber realizado este operativo. El día 17 de mayo a las nueve de la noche las fuerzas patrióticas del FMLN realizaron una acción de hostigamiento a los postas del Escuadrón de la Muerte en la calle de San Martín a Suchitoto.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Cuscatlán",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1045.0,1072.0"
+        }
+      }
+    }
+  ]
+}

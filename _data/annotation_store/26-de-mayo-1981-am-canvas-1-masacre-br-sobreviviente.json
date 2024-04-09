@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-am-canvas-1-masacre-br-sobreviviente.json",
+  "type": "AnnotationPage",
+  "label": "Masacre<br>Sobreviviente",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-am-canvas-1-masacre-br-sobreviviente-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "En estos momentos, los micrófonos de Radio Venceremos están penetrando en la primera casa que encontramos en El Junquillo, donde el carnicero de El Junquillo, el capitán Napoleón Medina Garay, realizó una de las masacres más espantosas que recuerde la historia del departamento de Morazán. En estos momentos estamos entrando a la casa totalmente destruida, sin techo, todas las tejas quebradas en el suelo. Todo quemado. Hay rastros de ropa de niños. Acá hay un compañero que nos va a explicar un poco, nos va a describir un poco qué es lo que estamos viendo acá. Realmente esta es una de las escenas más macabras que hemos visto en nuestra vida. Hay restos humanos, esqueletos. Compañero, cuéntenos a quién pertenecía esta casa.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Morazán",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/26-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1280.0,1335.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/27-de-mayo-1981-am-canvas-1-m-sica-.json",
+  "type": "AnnotationPage",
+  "label": "Música ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-m-sica--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<i>Se oye Radio Venceremos <br> desde el centro de la montaña, <br> trasmitiendo sus mensajes <br> que es poder de un pueblo en armas. <br> A las 6:00 AM <br> se escucha su trasmisión, <br> es la Radio Venceremos <br> que es la voz de nuestra revolución. <br> Una potente emisora <br> todos la escuchan aquí, <br> es la radio guerrillera <br> de Farabundo Martí. <br> Una potente emisora <br> todos la escuchan aquí, <br> es la radio guerrillera <br> de Farabundo Martí. <br> Toditos los combatientes <br> se encuentran muy animados, <br> porque Radio Venceremos <br> los tiene bien informados. <br> Toditos los combatientes <br> se encuentran muy animados, <br> porque Radio Venceremos<br> los tiene bien informados. <br> Una potente emisora <br> todos la escuchan aquí, <br> es la radio guerrillera <br> de Farabundo Martí. <br> Una potente emisora <br> todos la escuchan aquí, <br> es la radio guerrillera <br> de Farabundo Martí.<br>",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Canción",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,156.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-m-sica--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<i>El pueblo unido jamás será vencido<br> El pueblo unido jamás será vencido<br> El pueblo unido jamás será vencido<br> <br> De pie, cantar<br> que vamos a triunfar.<br> Avanzan ya<br> banderas de unidad.<br> Y tú vendrás<br> marchando junto a mí<br> y así verás<br> tu canto y tu bandera <br> florecer,<br> la luz<br> de un rojo amanecer<br> anuncia ya<br> la vida que vendrá<br> <br> De pie, marchar, <br> El pueblo va a triunfar.<br> Será mejor <br> la vida que vendrá<br> a conquistar<br> nuestra felicidad<br> y en un clamor<br><br> mil voces de combate se alzarán<br> dirán<br> canción de libertad<br> con decisión<br> la patria vencerá.<br> <br> El pueblo unido jamás será vencido<br> El pueblo unido jamás será vencido<br> El pueblo unido jamás será vencido<br><br>",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Canción",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "157.0,228.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-m-sica--annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<i>El pueblo va a triunfar<br> millones ya,<br> imponen la verdad, <br> de acero son<br> ardiente batallón<br> sus manos van<br> llevando la justicia y la razón<br> mujer<br> con fuego y con valor<br> ya estás aquí<br> junto al trabajador.<br> Y ahora el pueblo--<br>",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Canción",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "276.0,304.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-m-sica--annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<i>El pueblo unido jamás será vencido<br> El pueblo unido jamás será vencido<br> El pueblo unido jamás será vencido<br> El pueblo unido jamás será vencido<br> El pueblo unido jamás será vencido<br>",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Canción",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "323.0,338.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "27-de-mayo-1981-am-canvas-1-m-sica--annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "<i>Venceremos, <br> venceremos. <br> Mil cadenas <br> habrá que romper. <br> Venceremos, <br> Venceremos.<br> La miseria sabremos vencer.<br>",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Canción",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/27-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "395.0,411.0"
+        }
+      }
+    }
+  ]
+}

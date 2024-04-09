@@ -1,0 +1,90 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/radio-venceremos-espanol/annotations/26-de-mayo-1981-am-canvas-1-contexto-pol-tico.json",
+  "type": "AnnotationPage",
+  "label": "Contexto político",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-am-canvas-1-contexto-pol-tico-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mientras que la dictadura habla de elecciones nuestro pueblo habla sobre la realidad de muerte y represión que vive El Salvador.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/26-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1731.0,1740.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-am-canvas-1-contexto-pol-tico-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Como le repito, a nosotros nos mintieron, decían que los cuilios traían periodistas extranjeros, y que adelante de los periodistas extranjeros ellos no podían matar los niños ni las mujeres indefensos. Hablo del capitán Medina Garay, sí fue, los acercó para allá él cuando vino.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "El_Junquillo",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/26-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1986.0,2010.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26-de-mayo-1981-am-canvas-1-contexto-pol-tico-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Carlos Ibrian Resinos, fungía como Secretario de Finanzas y José Alirio Martínez Martínez como Secretario General del sindicato, condenamos y repudiamos enérgicamente este nuevo atentado de la dictadura contra la clase obrera salvadoreña, a la vez nos solidarizamos con los compañeros del sindicato de la industria del dulce y pastas alimenticias ante esta envestida del régimen, los alentamos por otra parte a seguir adelante en la lucha por sus reivindicaciones y por un gobierno democrático y revolucionario.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Sindicatos",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/radio-venceremos-espanol/26-de-mayo-1981-am/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2663.0,2710.0"
+        }
+      }
+    }
+  ]
+}
