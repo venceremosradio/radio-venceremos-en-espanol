@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "El poder y la realidad de la radio durante revolución" ] },
+    "summary": { "en": [ "Vera P. Burrows, Author. \r\nLuke Sumpter, Editor. " ] },
+    "items": [
+    ]
+}
