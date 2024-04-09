@@ -23,6 +23,80 @@
         "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/26-de-mayo-1981-pm/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2812,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-pm-canvas-1-plomo-informativo.json",
+            "label": {
+              "none": ["Plomo Informativo"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-pm-canvas-1-bajas.json",
+            "label": {
+              "none": ["Bajas"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-pm-canvas-1-radio-venceremos-br-fmln.json",
+            "label": {
+              "none": ["Radio Venceremos\u003cbr\u003eFMLN"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-pm-canvas-1-contexto-pol-tico.json",
+            "label": {
+              "none": ["Contexto Político"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-pm-canvas-1-radio-venceremos.json",
+            "label": {
+              "none": ["Radio Venceremos"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-pm-canvas-1-plomo-informativo-br-tortura-br-bajas.json",
+            "label": {
+              "none": ["Plomo Informativo\u003cbr\u003eTortura\u003cbr\u003eBajas"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-pm-canvas-1-plomo-informativo-br-enfrentamientos-br-bajas.json",
+            "label": {
+              "none": ["Plomo Informativo\u003cbr\u003eEnfrentamientos\u003cbr\u003eBajas"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-pm-canvas-1-enfrentamiento.json",
+            "label": {
+              "none": ["Enfrentamiento"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/annotations/26-de-mayo-1981-pm-canvas-1-m-sica.json",
+            "label": {
+              "none": ["Música"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://venceremosradio.github.io/radio-venceremos-en-espanol/26-de-mayo-1981-pm/canvas-1/paintings",
